@@ -1,7 +1,6 @@
-<img align="right" width="350" height="520" src="https://media.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif">
-
-
 ## Hey folks! Come right in.
+
+<img align="right" width="350" height="520" src="https://media.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif">
 
 ### :briefcase: Background
 
