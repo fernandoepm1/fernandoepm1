@@ -1,14 +1,14 @@
 ## Hey folks! Come right in.
 
-<img align="right" width="350" height="500" src="https://media.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif">
+<img align="right" width="350" height="450" src="https://media.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif">
 
 ### :briefcase: Background
 
-I'm a very passionate programmer with a background in electrical engineering, now with 2 years of experience working as a fullstack web developer mainly focused on Ruby on Rails and JavaScript.
+I'm a very passionate programmer with a background in electrical engineering, now with more then 3 years of experience working as a fullstack web developer mainly focused on Ruby on Rails and JavaScript.
 
 ### :zap: Active projects
 
-I'm currently working as a Software Developer at @agendakids, mainly focused on back-end tasks using the Ruby on Rails framework. I also have a lot of open-source projects in development, mainly for studying|learning purposes. Now focusing on JavaScript frameworks like ReactJS, React Native and Vue.js.
+I'm currently looking for new remote opportunities that are mainly focused on backend using the Ruby on Rails framework. I also have a lot of open-source projects in development, mainly for studying|learning purposes. Now focusing on JavaScript frameworks like ReactJS, React Native and Vue.js.
 
 ### :joystick: Fun facts
 
