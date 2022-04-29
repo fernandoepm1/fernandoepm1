@@ -28,8 +28,12 @@
 
 <hr>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandoepm1&count_private=true&show_icons=true&include_all_commits=true&custom_title=GitHub%20Stats&icon_color=C5C9D0&line_height=24&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoepm1&layout=compact&theme=synthwave&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fernandoepm1&count_private=true&show_icons=true&include_all_commits=true&custom_title=GitHub%20Stats&icon_color=C5C9D0&line_height=24&theme=synthwave" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoepm1&layout=compact&theme=synthwave&langs_count=8" />
+</a>
 
 <hr>
 
